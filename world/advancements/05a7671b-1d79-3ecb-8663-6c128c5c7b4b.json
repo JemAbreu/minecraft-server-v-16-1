@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2020-08-06 12:56:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2020-07-31 16:50:15 +0800"
@@ -663,6 +669,7 @@
     "criteria": {
       "minecraft:blaze": "2020-08-04 12:52:45 +0800",
       "minecraft:skeleton": "2020-07-31 15:49:59 +0800",
+      "minecraft:ghast": "2020-08-06 13:56:50 +0800",
       "minecraft:hoglin": "2020-08-04 12:35:01 +0800",
       "minecraft:magma_cube": "2020-08-02 23:54:02 +0800",
       "minecraft:spider": "2020-07-31 15:54:59 +0800",
@@ -1414,6 +1421,12 @@
   "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_purple_dye": "2020-08-02 21:55:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-08-06 13:21:16 +0800"
     },
     "done": true
   },
