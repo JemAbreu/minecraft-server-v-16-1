@@ -1,43 +1,44 @@
-[02:36:53] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[02:36:53] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:36:53] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[02:36:53] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[02:36:53] [main/INFO]: Reloading ResourceManager: Default
-[02:36:54] [Worker-Main-11/INFO]: Loaded 7 recipes
-[02:36:54] [Worker-Main-11/INFO]: Loaded 927 advancements
-[02:36:54] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[02:36:54] [Server thread/INFO]: Loading properties
-[02:36:54] [Server thread/INFO]: Default game type: SURVIVAL
-[02:36:54] [Server thread/INFO]: Generating keypair
-[02:36:54] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:36:54] [Server thread/INFO]: Using default channel type
-[02:36:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:36:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:36:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:36:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:36:55] [Server thread/INFO]: Preparing level "world"
-[02:36:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:36:55] [Server thread/INFO]: Preparing spawn area: 0%
-[02:36:55] [Server thread/INFO]: Preparing spawn area: 0%
-[02:36:56] [Server thread/INFO]: Preparing spawn area: 0%
-[02:36:56] [Server thread/INFO]: Time elapsed: 1369 ms
-[02:36:56] [Server thread/INFO]: Done (1.442s)! For help, type "help"
-[02:38:31] [Server thread/INFO]: George[/127.0.0.1:54022] logged in with entity id 427 at (-84.4533314745207, 49.0, 129.69999998807907)
-[02:39:04] [Server thread/INFO]: George joined the game
-[02:39:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32762ms or 655 ticks behind
-[02:39:04] [Server thread/INFO]: George lost connection: Disconnected
-[02:39:04] [Server thread/INFO]: George left the game
-[02:39:09] [Server thread/INFO]: George[/127.0.0.1:54045] logged in with entity id 434 at (-84.4533314745207, 49.0, 129.69999998807907)
-[02:39:09] [Server thread/INFO]: George joined the game
-[02:39:16] [Server thread/INFO]: George lost connection: Disconnected
-[02:39:16] [Server thread/INFO]: George left the game
-[02:40:22] [Server thread/INFO]: George[/0:0:0:0:0:0:0:1:54064] logged in with entity id 577 at (-84.4533314745207, 49.0, 129.69999998807907)
-[02:40:22] [Server thread/INFO]: George joined the game
-[02:40:28] [Server thread/INFO]: George lost connection: Disconnected
-[02:40:28] [Server thread/INFO]: George left the game
-[02:40:42] [Server thread/INFO]: George[/127.0.0.1:54080] logged in with entity id 725 at (-84.4533314745207, 49.0, 129.69999998807907)
-[02:40:42] [Server thread/INFO]: George joined the game
-[02:40:46] [Server thread/INFO]: George lost connection: Disconnected
-[02:40:46] [Server thread/INFO]: George left the game
+[02:57:37] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[02:57:37] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:57:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:57:37] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:57:37] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:57:37] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:57:37] [main/INFO]: Reloading ResourceManager: Default
+[02:57:38] [Worker-Main-10/INFO]: Loaded 7 recipes
+[02:57:38] [Worker-Main-10/INFO]: Loaded 927 advancements
+[02:57:38] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[02:57:38] [Server thread/INFO]: Loading properties
+[02:57:38] [Server thread/INFO]: Default game type: SURVIVAL
+[02:57:38] [Server thread/INFO]: Generating keypair
+[02:57:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:57:38] [Server thread/INFO]: Using default channel type
+[02:57:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:57:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:57:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:57:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:57:39] [Server thread/INFO]: Preparing level "world"
+[02:57:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:57:40] [Server thread/INFO]: Preparing spawn area: 0%
+[02:57:40] [Server thread/INFO]: Preparing spawn area: 0%
+[02:57:40] [Server thread/INFO]: Preparing spawn area: 66%
+[02:57:40] [Server thread/INFO]: Time elapsed: 1284 ms
+[02:57:40] [Server thread/INFO]: Done (1.346s)! For help, type "help"
+[02:58:28] [Server thread/INFO]: aeaeae[/0:0:0:0:0:0:0:1:54300] logged in with entity id 428 at (-375.0642664430958, 63.0, 247.34077805865405)
+[02:58:28] [Server thread/INFO]: aeaeae joined the game
+[02:59:03] [Server thread/INFO]: George[/127.0.0.1:54312] logged in with entity id 606 at (-84.4533314745207, 49.0, 129.69999998807907)
+[02:59:03] [Server thread/INFO]: George joined the game
+[03:25:07] [Server thread/INFO]: George fell from a high place
+[03:33:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5691, l='ServerLevel[world]', x=-340.83, y=63.00, z=222.54]
+[03:33:10] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/5691, l='ServerLevel[world]', x=-340.83, y=63.00, z=222.54]
+[04:01:24] [Server thread/INFO]: George fell from a high place
+[04:09:12] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/11519, l='ServerLevel[world]', x=-342.12, y=63.00, z=222.10]
+[04:09:12] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/11519, l='ServerLevel[world]', x=-342.12, y=63.00, z=222.10]
+[04:23:49] [Server thread/INFO]: aeaeae has made the advancement [What a Deal!]
+[04:26:39] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[04:26:39] [Server thread/INFO]: asdasd<--[HERE]
+[04:27:17] [Server thread/INFO]: [Server] kalbo
+[04:27:42] [Server thread/INFO]: aeaeae lost connection: Disconnected
+[04:27:42] [Server thread/INFO]: aeaeae left the game
+[04:27:45] [Server thread/INFO]: George lost connection: Disconnected
+[04:27:45] [Server thread/INFO]: George left the game
