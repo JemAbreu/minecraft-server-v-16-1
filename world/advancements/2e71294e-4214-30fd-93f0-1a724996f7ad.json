@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2020-08-08 22:19:08 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-08-04 23:04:09 +0800"
@@ -818,6 +824,7 @@
       "minecraft:piglin": "2020-08-01 18:38:37 +0800",
       "minecraft:enderman": "2020-07-31 15:51:52 +0800",
       "minecraft:silverfish": "2020-08-06 21:21:55 +0800",
+      "minecraft:stray": "2020-08-08 21:30:12 +0800",
       "minecraft:zombie": "2020-07-31 18:09:54 +0800",
       "minecraft:drowned": "2020-07-19 15:41:15 +0800",
       "minecraft:zombie_villager": "2020-08-04 11:23:51 +0800"
@@ -1570,8 +1577,10 @@
       "minecraft:taiga": "2020-08-01 14:42:16 +0800",
       "minecraft:desert_hills": "2020-07-31 17:54:48 +0800",
       "minecraft:deep_cold_ocean": "2020-08-01 14:06:02 +0800",
+      "minecraft:snowy_tundra": "2020-08-08 21:08:30 +0800",
       "minecraft:taiga_hills": "2020-08-01 14:58:19 +0800",
       "minecraft:desert": "2020-07-31 17:49:44 +0800",
+      "minecraft:frozen_river": "2020-08-08 21:08:19 +0800",
       "minecraft:jungle": "2020-08-05 14:09:13 +0800",
       "minecraft:birch_forest": "2020-07-31 18:41:52 +0800",
       "minecraft:warm_ocean": "2020-08-04 17:31:48 +0800",
@@ -2179,6 +2188,12 @@
   "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
     "criteria": {
       "has_log": "2020-08-02 21:38:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-08-08 21:08:27 +0800"
     },
     "done": true
   },

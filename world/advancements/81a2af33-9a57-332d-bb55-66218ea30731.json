@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-08-05 18:13:26 +0800"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_birch_planks": "2020-08-02 22:14:59 +0800"
@@ -738,6 +750,7 @@
       "minecraft:cave_spider": "2020-08-01 19:41:16 +0800",
       "minecraft:piglin": "2020-08-05 01:00:26 +0800",
       "minecraft:enderman": "2020-08-04 00:59:33 +0800",
+      "minecraft:stray": "2020-08-08 20:07:18 +0800",
       "minecraft:endermite": "2020-08-08 15:59:20 +0800",
       "minecraft:zombie": "2020-08-01 19:49:38 +0800",
       "minecraft:drowned": "2020-08-04 20:03:34 +0800"
@@ -813,6 +826,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_crimson_planks": "2020-08-06 18:15:54 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
     },
     "done": true
   },
@@ -933,6 +952,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2020-08-01 19:20:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
     },
     "done": true
   },
@@ -1236,6 +1261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2020-08-02 22:14:59 +0800"
@@ -1371,13 +1402,16 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2020-08-04 20:13:50 +0800",
+      "minecraft:snowy_mountains": "2020-08-08 19:58:22 +0800",
       "minecraft:forest": "2020-08-01 18:55:00 +0800",
       "minecraft:mountains": "2020-08-02 23:33:21 +0800",
       "minecraft:taiga": "2020-08-04 19:58:38 +0800",
       "minecraft:desert_hills": "2020-08-02 23:52:34 +0800",
       "minecraft:deep_cold_ocean": "2020-08-05 18:05:10 +0800",
+      "minecraft:snowy_tundra": "2020-08-08 19:57:54 +0800",
       "minecraft:taiga_hills": "2020-08-04 19:59:48 +0800",
       "minecraft:desert": "2020-08-02 23:40:31 +0800",
+      "minecraft:frozen_river": "2020-08-08 20:53:24 +0800",
       "minecraft:jungle": "2020-08-05 03:16:55 +0800",
       "minecraft:birch_forest": "2020-08-01 19:01:08 +0800",
       "minecraft:deep_lukewarm_ocean": "2020-08-05 03:11:36 +0800",
@@ -1386,11 +1420,13 @@
       "minecraft:dark_forest": "2020-08-01 19:35:57 +0800",
       "minecraft:river": "2020-08-01 18:57:51 +0800",
       "minecraft:lukewarm_ocean": "2020-08-05 03:12:40 +0800",
+      "minecraft:snowy_taiga": "2020-08-08 21:09:39 +0800",
       "minecraft:birch_forest_hills": "2020-08-08 18:47:54 +0800",
       "minecraft:wooded_mountains": "2020-08-02 23:33:42 +0800",
       "minecraft:wooded_hills": "2020-08-01 19:01:20 +0800",
       "minecraft:stone_shore": "2020-08-04 20:53:47 +0800",
       "minecraft:swamp": "2020-08-01 18:55:37 +0800",
+      "minecraft:snowy_taiga_hills": "2020-08-08 21:59:23 +0800",
       "minecraft:savanna": "2020-08-07 01:16:41 +0800",
       "minecraft:plains": "2020-08-04 01:03:19 +0800"
     },
@@ -1891,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-08-05 20:23:12 +0800"
@@ -1906,6 +1948,18 @@
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2020-08-05 18:56:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2020-08-08 19:58:53 +0800"
     },
     "done": true
   },
@@ -2251,6 +2305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_hay_block": "2020-08-01 19:06:03 +0800"
@@ -2521,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2020-08-08 20:37:34 +0800"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2020-08-05 22:13:01 +0800"
@@ -2626,6 +2692,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-08-02 22:40:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
     },
     "done": true
   },
@@ -2986,6 +3058,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2020-08-01 19:20:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
     },
     "done": true
   },
@@ -3445,6 +3523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-08-05 18:13:26 +0800"
@@ -3469,6 +3553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2020-08-01 19:27:04 +0800"
@@ -3478,6 +3568,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2020-08-01 19:17:53 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2020-08-08 22:00:19 +0800"
     },
     "done": true
   },
