@@ -1,52 +1,108 @@
-[22:22:47] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[22:22:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:22:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:22:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:22:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[22:22:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[22:22:48] [main/INFO]: Reloading ResourceManager: Default
-[22:22:48] [Worker-Main-12/INFO]: Loaded 7 recipes
-[22:22:49] [Worker-Main-12/INFO]: Loaded 927 advancements
-[22:22:49] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[22:22:49] [Server thread/INFO]: Loading properties
-[22:22:49] [Server thread/INFO]: Default game type: SURVIVAL
-[22:22:49] [Server thread/INFO]: Generating keypair
-[22:22:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:22:50] [Server thread/INFO]: Using default channel type
-[22:22:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:22:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:22:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:22:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:22:50] [Server thread/INFO]: Preparing level "world"
-[22:22:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:22:52] [Server thread/INFO]: Preparing spawn area: 0%
-[22:22:52] [Server thread/INFO]: Preparing spawn area: 0%
-[22:22:52] [Server thread/INFO]: Preparing spawn area: 0%
-[22:22:52] [Server thread/INFO]: Preparing spawn area: 65%
-[22:22:52] [Server thread/INFO]: Time elapsed: 1753 ms
-[22:22:52] [Server thread/INFO]: Done (1.825s)! For help, type "help"
-[22:23:14] [Server thread/INFO]: cno kau[/0:0:0:0:0:0:0:1:52535] logged in with entity id 509 at (-365.0443849478142, 63.0, 215.33399775488684)
-[22:23:14] [Server thread/INFO]: cno kau joined the game
-[22:23:25] [Server thread/INFO]: Akrive[/127.0.0.1:52537] logged in with entity id 739 at (-337.54712628143454, 63.5, 211.3750915193889)
-[22:23:25] [Server thread/INFO]: Akrive joined the game
-[22:23:58] [Server thread/INFO]: George[/0:0:0:0:0:0:0:1:52542] logged in with entity id 821 at (-5916.213590751482, 70.0, -1281.9164524213745)
-[22:23:58] [Server thread/INFO]: George joined the game
-[22:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
-[22:25:51] [Server thread/INFO]: cno kau lost connection: Disconnected
-[22:25:51] [Server thread/INFO]: cno kau left the game
-[22:25:51] [Server thread/INFO]: George lost connection: Disconnected
-[22:25:51] [Server thread/INFO]: George left the game
-[22:25:54] [Server thread/INFO]: cno kau[/0:0:0:0:0:0:0:1:52550] logged in with entity id 1631 at (-365.0996464023631, 67.0, 216.4229346642952)
-[22:25:54] [Server thread/INFO]: cno kau joined the game
-[22:25:56] [Server thread/INFO]: George[/0:0:0:0:0:0:0:1:52552] logged in with entity id 1643 at (-5774.020626963321, 61.0, -1358.9810224614532)
-[22:25:56] [Server thread/INFO]: George joined the game
-[22:26:01] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:26:01] [Server thread/INFO]: <--[HERE]
-[22:26:16] [Server thread/INFO]: Akrive lost connection: Disconnected
-[22:26:16] [Server thread/INFO]: Akrive left the game
-[22:26:26] [Server thread/INFO]: cno kau lost connection: Disconnected
-[22:26:26] [Server thread/INFO]: cno kau left the game
-[22:26:26] [Server thread/INFO]: George lost connection: Disconnected
-[22:26:26] [Server thread/INFO]: George left the game
-[22:26:44] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[22:26:44] [Server thread/INFO]: <--[HERE]
+[22:30:07] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:30:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:30:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:30:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:30:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:30:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:30:07] [main/INFO]: Reloading ResourceManager: Default
+[22:30:08] [Worker-Main-12/INFO]: Loaded 7 recipes
+[22:30:08] [Worker-Main-12/INFO]: Loaded 927 advancements
+[22:30:08] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[22:30:08] [Server thread/INFO]: Loading properties
+[22:30:08] [Server thread/INFO]: Default game type: SURVIVAL
+[22:30:08] [Server thread/INFO]: Generating keypair
+[22:30:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:30:08] [Server thread/INFO]: Using default channel type
+[22:30:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:30:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:30:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:30:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:30:09] [Server thread/INFO]: Preparing level "world"
+[22:30:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[22:30:09] [Server thread/INFO]: Preparing spawn area: 0%
+[22:30:10] [Server thread/INFO]: Preparing spawn area: 48%
+[22:30:10] [Server thread/INFO]: Time elapsed: 1305 ms
+[22:30:10] [Server thread/INFO]: Done (1.369s)! For help, type "help"
+[22:30:25] [Server thread/INFO]: George[/0:0:0:0:0:0:0:1:61457] logged in with entity id 461 at (-5765.595197112844, 71.0, -1308.1109384606657)
+[22:30:25] [Server thread/INFO]: George joined the game
+[22:30:46] [Server thread/INFO]: George lost connection: Disconnected
+[22:30:46] [Server thread/INFO]: George left the game
+[22:30:51] [Server thread/INFO]: George[/127.0.0.1:61465] logged in with entity id 668 at (-5765.062464822506, 72.0, -1310.684860272497)
+[22:30:51] [Server thread/INFO]: George joined the game
+[22:30:55] [Server thread/INFO]: George lost connection: Disconnected
+[22:30:55] [Server thread/INFO]: George left the game
+[22:31:00] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61467] logged in with entity id 875 at (-422.4897115475718, 63.0, 245.37059627191383)
+[22:31:00] [Server thread/INFO]: Akrive joined the game
+[22:31:00] [Server thread/INFO]: George[/127.0.0.1:61468] logged in with entity id 876 at (-5765.062464822506, 72.0, -1310.684860272497)
+[22:31:00] [Server thread/INFO]: George joined the game
+[22:31:30] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:31:30] [Server thread/INFO]: Akrive left the game
+[22:31:40] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61469] logged in with entity id 1505 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:31:40] [Server thread/INFO]: Akrive joined the game
+[22:31:55] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:31:55] [Server thread/INFO]: Akrive left the game
+[22:32:26] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61470] logged in with entity id 1875 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:32:26] [Server thread/INFO]: Akrive joined the game
+[22:32:30] [Server thread/INFO]: cno kau[/0:0:0:0:0:0:0:1:61471] logged in with entity id 2013 at (-367.9795773801377, 64.0, 212.99664546414547)
+[22:32:30] [Server thread/INFO]: cno kau joined the game
+[22:32:41] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:32:41] [Server thread/INFO]: Akrive left the game
+[22:32:53] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61475] logged in with entity id 2112 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:32:53] [Server thread/INFO]: Akrive joined the game
+[22:33:02] [Server thread/INFO]: George lost connection: Disconnected
+[22:33:02] [Server thread/INFO]: George left the game
+[22:33:08] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:33:08] [Server thread/INFO]: Akrive left the game
+[22:33:11] [Server thread/INFO]: George[/0:0:0:0:0:0:0:1:61486] logged in with entity id 2233 at (-5855.680884218214, 64.0, -1131.6682831676094)
+[22:33:11] [Server thread/INFO]: George joined the game
+[22:33:25] [Server thread/WARN]: George moved too quickly! 9.784294786185455,0.0,3.2896192000598603
+[22:33:54] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61488] logged in with entity id 2575 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:33:54] [Server thread/INFO]: Akrive joined the game
+[22:34:06] [Server thread/WARN]: George moved too quickly! -9.176006319575208,-0.2468000194787976,4.285682223406184
+[22:34:09] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:34:09] [Server thread/INFO]: Akrive left the game
+[22:34:27] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61489] logged in with entity id 2741 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:34:27] [Server thread/INFO]: Akrive joined the game
+[22:34:30] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/2788, l='ServerLevel[world]', x=-344.79, y=63.00, z=222.82]
+[22:34:30] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/2788, l='ServerLevel[world]', x=-344.79, y=63.00, z=222.82]
+[22:34:42] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:34:42] [Server thread/INFO]: Akrive left the game
+[22:34:56] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61490] logged in with entity id 2862 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:34:56] [Server thread/INFO]: Akrive joined the game
+[22:35:11] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:35:11] [Server thread/INFO]: Akrive left the game
+[22:35:19] [Server thread/INFO]: George was slain by Zombie
+[22:35:26] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61491] logged in with entity id 2987 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:35:26] [Server thread/INFO]: Akrive joined the game
+[22:35:41] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:35:41] [Server thread/INFO]: Akrive left the game
+[22:36:24] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61492] logged in with entity id 3147 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:36:24] [Server thread/INFO]: Akrive joined the game
+[22:36:39] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:36:39] [Server thread/INFO]: Akrive left the game
+[22:37:06] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61493] logged in with entity id 3266 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:37:06] [Server thread/INFO]: Akrive joined the game
+[22:37:21] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:37:21] [Server thread/INFO]: Akrive left the game
+[22:38:35] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61494] logged in with entity id 3501 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:38:35] [Server thread/INFO]: Akrive joined the game
+[22:38:50] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:38:50] [Server thread/INFO]: Akrive left the game
+[22:41:18] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61503] logged in with entity id 3869 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:41:18] [Server thread/INFO]: Akrive joined the game
+[22:41:33] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:41:33] [Server thread/INFO]: Akrive left the game
+[22:41:44] [Server thread/WARN]: Fetching packet for removed entity bbg['Air'/3955, l='ServerLevel[world]', x=-341.70, y=63.00, z=222.29]
+[22:41:46] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61504] logged in with entity id 3958 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:41:46] [Server thread/INFO]: Akrive joined the game
+[22:42:01] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:42:01] [Server thread/INFO]: Akrive left the game
+[22:42:44] [Server thread/INFO]: Akrive[/0:0:0:0:0:0:0:1:61511] logged in with entity id 4324 at (-422.35439664237686, 64.0, 265.78775132822705)
+[22:42:44] [Server thread/INFO]: Akrive joined the game
+[22:42:59] [Server thread/INFO]: Akrive lost connection: Timed out
+[22:42:59] [Server thread/INFO]: Akrive left the game
+[22:43:28] [Server thread/INFO]: George lost connection: Disconnected
+[22:43:28] [Server thread/INFO]: George left the game
+[22:43:40] [Server thread/INFO]: cno kau lost connection: Disconnected
+[22:43:40] [Server thread/INFO]: cno kau left the game
